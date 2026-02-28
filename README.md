@@ -18,7 +18,7 @@
 ---
 
 - 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
+- 💬 Ask me about my experience with Mobile Application Development, Full-Stack Development and Machine Learning.
 - 🌱 I’m diving deeper into Machine Learning, AI and and full-stack development. 
 
 ## 🛠 &nbsp;Tech Stack
